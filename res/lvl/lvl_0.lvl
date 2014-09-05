@@ -1,0 +1,16 @@
+platform grounded -60 60 600 benign
+platform floating 0 400 300 190 benign concrete
+mob grunt 500 550
+mob grunt 510 550
+mob grunt 520 550
+mob grunt 530 550
+mob grunt 540 550
+mob grunt 550 550
+mob grunt 560 550
+platform floating 500 400 300 10 benign abstract
+platform floating 1000 250 300 10 benign abstract
+platform floating 1000 500 300 10 benign abstract
+platform floating 1400 400 300 10 benign abstract
+platform floating 2500 500 500 90 benign concrete
+platform floating 2500 0 500 90 benign concrete
+platform grounded 0 10000 10 benign
